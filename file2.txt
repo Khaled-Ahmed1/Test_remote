@@ -1,2 +1,5 @@
 Hello Git World
 Hi again, this is after adding to the index
+Adding a 3rd line just for fun
+Here is another line to try commit --ammend
+Here is another line for commit amnend .. correct spelling :D 
