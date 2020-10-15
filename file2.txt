@@ -1,0 +1,2 @@
+Hello Git World
+Hi again, this is after adding to the index
